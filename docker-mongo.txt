@@ -1,0 +1,1 @@
+docker run -d -p 2717:27017 -v D:\2022\rkumar-bengaluru\mongobyexample\data:/data/db --name rk-mongo mongo
